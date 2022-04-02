@@ -20,8 +20,6 @@ https://github.com/SaleevaMariia
 
 ## What am I currently up to?
 
-:shamrock: *Currently I’m interesting test automation and starting to apply automation in my work. I have finished the course from **[QA.GURU school](https://qa.guru)** and successfully completed **[graduation work](https://github.com/daramirra/qaGuruDiploma)**. In the course program I studied the tools and practices of test automation, including:*
-
 <p align="center">
   <img width="60" title="customized by daramirra" src="https://img.shields.io/badge/-Java-20793B?logo=java&style=for-the-badge">
   <img width="72" title="customized by daramirra" src="https://img.shields.io/badge/-Selenide-6A54DF?&style=for-the-badge">
@@ -34,7 +32,52 @@ https://github.com/SaleevaMariia
   <img width="125" title="customized by daramirra" src="https://img.shields.io/badge/-Telegram%20(Bot)-20793B?logo=Telegram&style=for-the-badge">
 </p>
 
+<div align="left">
+<h2><img width="162" src="images/amas12cat_animation.gif"> My projects </h2>
+</div>
+<p align="center">
+  <a href="https://github.com/amas12/AUTO-807"><img width="250" title="|Customized by amas12| Project in Allure TestOps with manual & automated tests / Selenide / Rest-Assured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amas12&repo=AUTO-807&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="AUTO-807"></a>
+  <a href="https://github.com/amas12/AUTO-807"><img width="250" title="|Customized by amas12| Project in Allure TestOps with manual & automated tests / Selenide / Rest-Assured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amas12&repo=AUTO-807&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="AUTO-807"></a>
+   <a href="https://github.com/amas12/AUTO-807"><img width="250" title="|Customized by amas12| Project in Allure TestOps with manual & automated tests / Selenide / Rest-Assured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amas12&repo=AUTO-807&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="AUTO-807"></a>
+   <a href="https://github.com/amas12/AUTO-807"><img width="250" title="|Customized by amas12| Project in Allure TestOps with manual & automated tests / Selenide / Rest-Assured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amas12&repo=AUTO-807&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="AUTO-807"></a>
+   <a href="https://github.com/amas12/AUTO-807"><img width="250" title="|Customized by amas12| Project in Allure TestOps with manual & automated tests / Selenide / Rest-Assured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amas12&repo=AUTO-807&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="AUTO-807"></a>
+   <a href="https://github.com/amas12/AUTO-807"><img width="250" title="|Customized by amas12| Project in Allure TestOps with manual & automated tests / Selenide / Rest-Assured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amas12&repo=AUTO-807&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="AUTO-807"></a>
+</p>
+<p align="right">
+  <a href="https://github.com/amas12?tab=repositories&sort=stargazers"><img width="140" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-20793B?style=for-the-badge&logoColor=white&logo=repo"></a>
+</p>
+<p align="right">
+  <h2><img width="135" src="images/amas12_contact3.gif">Languages and tools<img align="right" title="My Github Stats" width="135" src="images/amas12walkcyclevector24_dribbble.gif"></h2>
+</p>
 
+<a><img width="53%" align="right" title="customized by Albina" alt="Albina Github Stats" src="https://github-stats-alpha.vercel.app/api/?username=amas12&cc=FFFFFF&tc=5725DD&ic=27A438&bc=FFFFFF"></a>
+<a><img width="46%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=amas12&theme=github-light&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=9639DD&ring=9639DD&background=FFFFFF00&border=237D41F8&fire=11880DAB&sideNums=3B6FDDA9&currStreakLabel=237D41F8&currStreakNum=237D41B8&sideLabels=237D41F8&dates=7F30BBCF)"></a>
+
+<!-- <a><img width="28%" align="right" alt="Albina Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amas12&layout=compact&theme=buefy&hide_border=true"></a>-->
+<a><img width="53%" align="right" alt="Github" src="images/image_processing20191001-18106-18vkqfi.gif"/></a>
+
+<p align="left">
+   
+  <code><img width="5%" title="IntelliJ IDEA" src="images/amas12_Intelij_IDEA.svg"></code>
+  <code><img width="5%" title="Java" src="images/amas12_Java.svg"></code>
+  <code><img width="5%" title="Selenium" src="images/amas12_Selenium.svg"></code>
+  <code><img width="5%" title="Selenide" src="images/amas12_selenide-logo.svg "></code>
+  <code><img width="5%" title="Rest-Assured" src="images/amas12_RESTAssured.svg"></code>
+  
+  <code><img width="5%" title="Appium" src="images/amas12_Appium.svg"></code>
+  <code><img width="5%" title="Browserstack" src="images/amas12_Browserstack.svg"></code>
+  <code><img width="5%" title="Gradle" src="images/amas12_Gradle.svg"></code>
+  <code><img width="5%" title="JUnit5" src="images/amas12_junit5.svg"></code>
+  <code><img width="5%" title="Jenkins" src="images/amas12_Jenkins.svg"></code> 
+  
+  <code><img width="5%" title="Selenoid" src="images/amas12_selenoid.svg"></code>
+  <code><img width="5%" title="Docker" src="images/amas12_Docker.svg"></code>
+  <code><img width="5%" title="Allure TestOps" src="images/amas12_allureTestOPS.svg"></code>
+  <code><img width="5%" title="Allure Report" src="images/amas12_allureReport.svg"></code>
+  <code><img width="5%" title="Github" src="images/damas12_Github.svg"></code>
+<!-- <code><img width="5%" title="Gitlab" src="images/amas12_gitlab.svg"></code> -->
+ 
+</p>
 
 ### :open_umbrella: When I'm not testing you can find me:
 
@@ -49,19 +92,13 @@ https://github.com/SaleevaMariia
 :purple_heart:  <code><strong>*Watching the sunset*</strong></code>
 
 <div align="left">
-<h2><img width="30" src="images/daramirra_spin.gif"> Contacts </h2>
+<h2><img width="30" src="images/amas12_spin.gif"> Contacts </h2>
 </div>
 
-[<img title="Github" alt="daramirra | Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/daramirra)
-[<img title="Telegram" alt="daramirra | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/daramirra) 
+[<img title="Github" alt="amas12 | Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/amas12)
+[<img title="Telegram" alt="amas12 | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/Albina_mas) 
 
-<p align="left">
-  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%daramirra&count_bg=%234D4D4D&title_bg=%23723EDC&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true">
-  <img width="135" title="|Customized by daramirra|" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%daramirra&count_bg=%234D4D4D&title_bg=%23723EDC&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
-</a>
-<a href="https://komarev.com/ghpvc/?username=daramirra&style=for-the-badge&color=6A54DF&label=visitors">
-  <img width="112" title="|Customized by daramirra|" src="https://komarev.com/ghpvc/?username=daramirra&style=for-the-badge&color=6A54DF&label=visitors"/>
-</a>
+
 
 </p>
 <hr>
