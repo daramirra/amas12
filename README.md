@@ -9,7 +9,8 @@ https://github.com/SaleevaMariia
 ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Проект%20по%20&fontAlignY=35&fontSize=60&desc=%20тестировани%20сайта%20GitHub&descAlignY=60&descSize=50&animation=twinkling&fontColor=E9E9E9F3&descAlign=60&fontAlign=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Hi%20there!%20&fontAlignY=35&fontSize=60&desc=%20Wellcome%20my%20GitHub&descAlignY=60&descSize=50&animation=twinkling&fontColor=E9E9E9F3&descAlign=60&fontAlign=35)
+
 
 <p align="center">
   <img title="|Customized by Albina Masgutova|" src="https://readme-typing-svg.herokuapp.com?color=fe9ac5&font=Knewave&size=35&center=true&vCenter=true&lines=Albina+Masgutova;QA+engineer">
@@ -74,7 +75,7 @@ https://github.com/SaleevaMariia
   <code><img width="5%" title="Docker" src="images/amas12_Docker.svg"></code>
   <code><img width="5%" title="Allure TestOps" src="images/amas12_allureTestOPS.svg"></code>
   <code><img width="5%" title="Allure Report" src="images/amas12_allureReport.svg"></code>
-  <code><img width="5%" title="Github" src="images/damas12_Github.svg"></code>
+  <code><img width="5%" title="Github" src="images/amas12_Github.svg"></code>
 <!-- <code><img width="5%" title="Gitlab" src="images/amas12_gitlab.svg"></code> -->
  
 </p>
